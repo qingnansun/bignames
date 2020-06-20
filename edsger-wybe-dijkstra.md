@@ -6,3 +6,5 @@
 
 他曾经提出“[GOTO有害论](https://zh.wikipedia.org/wiki/Goto#.E5.AF.B9.E4.BA.8Egoto.E4.BD.BF.E7.94.A8.E7.9A.84.E6.89.B9.E8.AF.84)”，[信号量](https://zh.wikipedia.org/wiki/%E4%BF%A1%E5%8F%B7%E9%87%8F)和[PV原语](https://zh.wikipedia.org/w/index.php?title=PV%E5%8E%9F%E8%AF%AD&action=edit&redlink=1)，解决了有趣的“[哲学家就餐问题](https://zh.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6%E5%AE%B6%E5%B0%B1%E9%A4%90%E9%97%AE%E9%A2%98)”。
 
+[1972 年 Dijkstra 的图灵奖演讲：谦逊的程序员](https://segmentfault.com/a/1190000000423645)
+
